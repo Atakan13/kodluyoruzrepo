@@ -21,3 +21,4 @@ Linux için:
 ##### License
 ! [MIT]
 
+https://www.patika.dev/tr
